@@ -1,0 +1,1 @@
+Sharon Velez Ð Queens Web Project Project displays a mockup of a website for empowering women. UI designed to be client friendly and easy to navigate through. To open the webpage simply click on the index.html  file. 
